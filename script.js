@@ -1,19 +1,20 @@
 let questions = [];
 let currentQuestionIndex = 0;
 let score = 0;
-// Function to shuffle an array
-function shuffleArray(array) {
-    for (let i = array.length - 1; i > 0; i--) {
-        const j = Math.floor(Math.random() * (i + 1));
-        [array[i], array[j]] = [array[j], array[i]];
-    }
-}
+
+// // Function to shuffle an array
+// function shuffleArray(array) {
+    // for (let i = array.length - 1; i > 0; i--) {
+        // const j = Math.floor(Math.random() * (i + 1));
+        // [array[i], array[j]] = [array[j], array[i]];
+    // }
+// }
 // Load questions and shuffle them
 fetch('questions.json')
     .then(response => response.json())
     .then(data => {
         questions = data;
-        shuffleArray(questions); // Shuffle questions
+        // shuffleArray(questions); // Shuffle questions
         displayQuestion();
     })
     .catch(error => console.error('Error loading questions:', error));

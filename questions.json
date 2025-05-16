@@ -1,12 +1,484 @@
 [
     {
-        "question": "What is the capital of France?",
-        "options": ["Paris", "London", "Berlin", "Madrid"],
-        "answer": "Paris"
+        "question": "The Potters ____________ to Dubai at 9:00 tomorrow morning.",
+        "options": [
+            "A. is flying",
+            "B. don’t fly",
+            "C. doesn’t fly",
+            "D. are flying"
+        ],
+        "answer": "D. are flying"
     },
     {
-        "image": "/Image/free-nature-images.jpg",
-        "options": ["Cat", "Dog", "Bird", "Fish"],
-        "answer": "Cat"
-    }
+        "question": "____________ is your favorite European city?",
+        "options": [
+            "A. When",
+            "B. How",
+            "C. Which",
+            "D. Who"
+        ],
+        "answer": "C. Which"
+    },
+    {
+        "question": "____________ much do they charge for a single room with breakfast?",
+        "options": [
+            "A. How",
+            "B. Who",
+            "C. What",
+            "D. Where"
+        ],
+        "answer": "A. How"
+    },
+    {
+        "question": "____________ is your brother talking to?",
+        "options": [
+            "A. When",
+            "B. Who",
+            "C. Whose",
+            "D. How"
+        ],
+        "answer": "B. Who"
+    },
+    {
+        "question": "The teacher ____________ believe his excuse for not coming to school yesterday.",
+        "options": [
+            "A. didn’t",
+            "B. don’t",
+            "C. used to not",
+            "D. use to"
+        ],
+        "answer": "A. didn’t"
+    },
+    {
+        "question": "Bobby ____________ skinny when he was a child.",
+        "options": [
+            "A. was used to",
+            "B. were",
+            "C. used to be",
+            "D. got used"
+        ],
+        "answer": "C. used to be"
+    },
+    {
+        "question": "____________ to contact Mr. Peterson twice, but didn’t find him.",
+        "options": [
+            "A. tried",
+            "B. tries",
+            "C. used to try",
+            "D. try"
+        ],
+        "answer": "A. tried"
+    },
+    {
+        "question": "After a couple of days, Sam finally ____________ up early in the morning.",
+        "options": [
+            "A. used to wake",
+            "B. get used to wake",
+            "C. wake",
+            "D. got used to waking"
+        ],
+        "answer": "D. got used to waking"
+    },
+    {
+        "question": "It took him a month to recover ____________ his illness.",
+        "options": [
+            "A. for",
+            "B. from",
+            "C. of",
+            "D. at"
+        ],
+        "answer": "B. from"
+    },
+    {
+        "question": "The book exhibition took ____________ at the Carlton Hotel.",
+        "options": [
+            "A. part",
+            "B. advantage",
+            "C. it easy",
+            "D. place"
+        ],
+        "answer": "D. place"
+    },
+    {
+        "question": "I didn’t ____________ Jason to come on time.",
+        "options": [
+            "A. expect",
+            "B. remember",
+            "C. wait",
+            "D. reminded"
+        ],
+        "answer": "A. expect"
+    },
+    {
+        "question": "I’m sorry but I can’t find it ____________ the map.",
+        "options": [
+            "A. over",
+            "B. on",
+            "C. between",
+            "D. along"
+        ],
+        "answer": "B. on"
+    },
+    {
+        "question": "They spent the whole day in Alexandria looking at the ____________.",
+        "options": [
+            "A. tasks",
+            "B. part",
+            "C. jobs",
+            "D. sights"
+        ],
+        "answer": "D. sights"
+    },
+    {
+        "question": "He was lucky to find that ____________ in their law firm.",
+        "options": [
+            "A. job",
+            "B. work",
+            "C. site",
+            "D. task"
+        ],
+        "answer": "A. job"
+    },
+    {
+        "question": "I think that these trainers belong ____________ your brother.",
+        "options": [
+            "A. on",
+            "B. in",
+            "C. to",
+            "D. at"
+        ],
+        "answer": "C. to"
+    },
+    {
+        "question": "They usually take ____________ of what I tell them.",
+        "options": [
+            "A. their time",
+            "B. part",
+            "C. place",
+            "D. no notice"
+        ],
+        "answer": "D. no notice"
+    },
+    {
+        "question": "We never argue ____________ our teacher.",
+        "options": [
+            "A. with",
+            "B. at",
+            "C. at",
+            "D. from"
+        ],
+        "answer": "A. with"
+    },
+    {
+        "question": "This dish is very healthy because it consists ____________ fish and vegetables.",
+        "options": [
+            "A. on",
+            "B. of",
+            "C. at",
+            "D. with"
+        ],
+        "answer": "B. of"
+    },
+    {
+        "question": "Tim ____________ the news, while his son was playing computer games.",
+        "options": [
+            "A. is watching",
+            "B. watches",
+            "C. was watching",
+            "D. watching"
+        ],
+        "answer": "C. was watching"
+    },
+    {
+        "question": "Lenny ____________ his old house two months ago.",
+        "options": [
+            "A. were selling",
+            "B. sells",
+            "C. is selling",
+            "D. sold"
+        ],
+        "answer": "D. sold"
+    },
+    {
+        "question": "He didn’t meet Joe and Alf, because they left ____________ than they usually do.",
+        "options": [
+            "A. early",
+            "B. earlier",
+            "C. earliest",
+            "D. the earliest"
+        ],
+        "answer": "B. earlier"
+    },
+    {
+        "question": "__________ you finish your report on time?",
+        "options": [
+            "A. Was",
+            "B. Are",
+            "C. Did",
+            "D. Were"
+        ],
+        "answer": "C. Did"
+    },
+    {
+        "question": "I was resting all day yesterday, because I was ____________ tired.",
+        "options": [
+            "A. terrible",
+            "B. most terrible",
+            "C. terribly",
+            "D. more terribly"
+        ],
+        "answer": "C. terribly"
+    },
+    {
+        "question": "Robert was crossing the street when he ____________ Fred riding a motorcycle.",
+        "options": [
+            "A. saw",
+            "B. was seeing",
+            "C. seeing",
+            "D. is seeing"
+        ],
+        "answer": "A. saw"
+    },
+    {
+        "question": "This artist is ____________ famous of all three that you mentioned.",
+        "options": [
+            "A. the less",
+            "B. least",
+            "C. less",
+            "D. the least"
+        ],
+        "answer": "D. the least"
+    },
+    {
+        "question": "That’s the boy ____________ father is our teacher.",
+        "options": [
+            "A. who",
+            "B. which",
+            "C. whose",
+            "D. that"
+        ],
+        "answer": "C. whose"
+    },
+    {
+        "question": "Can you tell me ____________ to put these boxes?",
+        "options": [
+            "A. where",
+            "B. when",
+            "C. which",
+            "D. who"
+        ],
+        "answer": "A. where"
+    },
+    {
+        "question": "Mark, ____________ is only twenty, teaches French.",
+        "options": [
+            "A. which",
+            "B. who",
+            "C. when",
+            "D. whose"
+        ],
+        "answer": "B. who"
+    },
+    {
+        "question": "My doctor advised me to ____________ a sport.",
+        "options": [
+            "A. take off",
+            "B. take after",
+            "C. take up",
+            "D. take on"
+        ],
+        "answer": "C. take up"
+    },
+    {
+        "question": "I can’t believe that they ____________ your offer.",
+        "options": [
+            "A. turned on",
+            "B. turned off",
+            "C. turned out",
+            "D. turned down"
+        ],
+        "answer": "D. turned down"
+    },
+    {
+        "question": "When I suggested a walk in the woods, he ____________.",
+        "options": [
+            "A. credited",
+            "B. nodded",
+            "C. raised",
+            "D. shook"
+        ],
+        "answer": "B. nodded"
+    },
+    {
+        "question": "After his mother’s ____________, he moved to Argentina.",
+        "options": [
+            "A. death",
+            "B. strength",
+            "C. power",
+            "D. impression"
+        ],
+        "answer": "A. death"
+    },
+    {
+        "question": "It was really ____________ that nobody was hurt in that accident.",
+        "options": [
+            "A. strong",
+            "B. powerful",
+            "C. incredible",
+            "D. truthful"
+        ],
+        "answer": "C. incredible"
+    },
+    {
+        "question": "Both my children are afraid ____________ the dark.",
+        "options": [
+            "A. of",
+            "B. for",
+            "C. on",
+            "D. with"
+        ],
+        "answer": "A. of"
+    },
+    {
+        "question": "They did everything in their ____________ to keep the company.",
+        "options": [
+            "A. truth",
+            "B. strength",
+            "C. impression",
+            "D. power"
+        ],
+        "answer": "D. power"
+    },
+    {
+        "question": "I bought a leather bag that ____________ my new boots.",
+        "options": [
+            "A. match",
+            "B. matches",
+            "C. suits",
+            "D. suit"
+        ],
+        "answer": "B. matches"
+    },
+    {
+        "question": "Both her children have a very vivid ____________.",
+        "options": [
+            "A. description",
+            "B. impression",
+            "C. admiration",
+            "D. imagination"
+        ],
+        "answer": "D. imagination"
+    },
+    [
+        {
+            "question": "I’ve got the ____________ that they’re lying again.",
+            "options": [
+                "A. impression",
+                "B. admiration",
+                "C. imagination",
+                "D. description"
+            ],
+            "answer": "A. impression"
+        },
+        {
+            "question": "The Carltons have never _________ Denmark before.",
+            "options": [
+                "A. been to",
+                "B. gone to",
+                "C. gone in",
+                "D. been at"
+            ],
+            "answer": "A. been to"
+        },
+        {
+            "question": "Have you __________ thought of studying abroad?",
+            "options": [
+                "A. since",
+                "B. before",
+                "C. never",
+                "D. ever"
+            ],
+            "answer": "D. ever"
+        },
+        {
+            "question": "Danny __________ tennis since he was a child.",
+            "options": [
+                "A. played",
+                "B. plays",
+                "C. been playing",
+                "D. has been playing"
+            ],
+            "answer": "D. has been playing"
+        },
+        {
+            "question": "It has been raining heavily __________ our plane took off two hours ago.",
+            "options": [
+                "A. while",
+                "B. already",
+                "C. since",
+                "D. still"
+            ],
+            "answer": "C. since"
+        },
+        {
+            "question": "Mr. Marfin __________ go on business trip very often.",
+            "options": [
+                "A. need",
+                "B. needs",
+                "C. doesn’t have",
+                "D. has to"
+            ],
+            "answer": "B. needs"
+        },
+        {
+            "question": "We can’t meet Jack today. We __________ to work overtime.",
+            "options": [
+                "A. have",
+                "B. must",
+                "C. had better",
+                "D. would rather"
+            ],
+            "answer": "B. must"
+        },
+        {
+            "question": "I’d __________ join you for dinner than stay at home.",
+            "options": [
+                "A. rather",
+                "B. had better",
+                "C. need",
+                "D. must"
+            ],
+            "answer": "A. rather"
+        },
+        {
+            "question": "Luckily, we __________ wait for them. We can leave right now.",
+            "options": [
+                "A. don’t have",
+                "B. don’t need",
+                "C. needn’t",
+                "D. not have to"
+            ],
+            "answer": "C. needn’t"
+        },
+        {
+            "question": "She __________ still be at home. I talked to her on the phone a couple of minutes ago.",
+            "options": [
+                "A. has to",
+                "B. better",
+                "C. must",
+                "D. needs"
+            ],
+            "answer": "C. must"
+        },
+        {
+            "question": "I __________ see an optician. I can’t see very clearly lately.",
+            "options": [
+                "A. would rather",
+                "B. may not",
+                "C. might not",
+                "D. had better"
+            ],
+            "answer": "D. had better"
+        }
+    ]
 ]
