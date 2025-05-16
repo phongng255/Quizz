@@ -1,5 +1,25 @@
 [
     {
+        "question": "Teddy ____________ of moving closer to the city centre.",
+        "options": [
+            "A. thinks",
+            "B. is thinking",
+            "C. don’t think",
+            "D. aren’t thinking"
+        ],
+        "answer": "D. is thinking"
+    },
+    {
+        "question": "We ____________ giving you a lift home.",
+        "options": [
+            "A. don’t mind",
+            "B. aren’t minding",
+            "C. doesn’t mind",
+            "D. isn’t minding"
+        ],
+        "answer": "D. are flying"
+    },
+    {
         "question": "The Potters ____________ to Dubai at 9:00 tomorrow morning.",
         "options": [
             "A. is flying",
