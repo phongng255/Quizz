@@ -1,0 +1,135 @@
+/* Reset mặc định */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f9f9f9;
+    color: #333;
+}
+h1, h2, h3 {
+    margin: 0 0 10px;
+}
+#quiz-container {
+    display: flex;
+    gap: 20px;
+    padding: 20px;
+    max-width: 1400px; /* Tăng chiều rộng tối đa */
+    margin: 0 auto;
+    box-sizing: border-box;
+}
+#question-container, #result-container {
+    background-color: #fff;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+/* Cố định chiều cao cho #question-container */
+#question-container {
+    flex: 2;
+    height: 600px; /* Đặt chiều cao tối đa */
+    overflow-y: auto; /* Thêm thanh cuộn dọc nếu nội dung vượt quá chiều cao */
+    background-color: #fff;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+#question-container img {
+    display: block;
+    max-width: 50%; /* Đảm bảo hình ảnh không vượt quá chiều rộng của container */
+    height: auto; /* Giữ tỷ lệ hình ảnh */
+    margin: 0 auto; /* Căn giữa hình ảnh */
+    border-radius: 8px; /* Bo góc hình ảnh */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Thêm hiệu ứng đổ bóng */
+}
+/* Đảm bảo #result-container không ảnh hưởng đến #question-container */
+#result-container {
+    flex: 1.5; /* Tăng chiều rộng của bảng kết quả */
+    border-left: 2px solid #ccc;
+    padding-left: 20px;
+    min-width: 500px; /* Đặt chiều rộng tối thiểu lớn hơn */
+    overflow-y: auto; /* Thêm thanh cuộn dọc nếu cần */
+}
+button {
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    padding: 10px;
+    width: 100%;
+    cursor: pointer;
+    border-radius: 5px;
+    margin-top: 10px;
+    font-size: 16px;
+}
+button:hover {
+    background-color: #45a049;
+}
+button:disabled {
+    background-color: #cfcfcf;
+}
+/* Style cho bảng */
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 10px;
+}
+table th, table td {
+    border: 1px solid #ccc;
+    padding: 12px; /* Tăng khoảng cách bên trong ô */
+    text-align: center;
+    font-size: 14px;
+}
+table th {
+    background-color: #f2f2f2;
+    font-weight: bold;
+}
+th {
+    cursor: pointer;
+    background-color: #f9f9f9;
+    user-select: none;
+}
+th:hover {
+    background-color: #e0e0e0;
+}
+/* Tăng chiều cao của các ô */
+table td {
+    height: 50px;
+}
+/* Style cho bảng chi tiết */
+#result-table td:first-child {
+    text-align: left; /* Căn phải cột câu hỏi */
+    padding-right: 20px; /* Thêm khoảng cách bên phải */
+}
+/* Style cho câu hỏi */
+#question-container h2 {
+    font-size: 20px;
+    margin-bottom: 20px;
+    color: #333;
+}
+/* Style cho radio box */
+#options label {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+    font-size: 16px;
+    cursor: pointer;
+}
+#options input[type="radio"] {
+    margin-right: 10px;
+    transform: scale(1.2); /* Tăng kích thước radio box */
+    accent-color: #4CAF50; /* Màu của radio box */
+}
+/* Responsive cho màn hình nhỏ */
+@media (max-width: 768px) {
+    #quiz-container {
+        flex-direction: column;
+        gap: 10px;
+    }
+    #result-container {
+        border-left: none;
+        border-top: 2px solid #ccc;
+        min-width: unset; /* Bỏ chiều rộng tối thiểu trên điện thoại */
+        padding-left: 2px;
+    }
+}

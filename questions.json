@@ -1,0 +1,12 @@
+[
+    {
+        "question": "What is the capital of France?",
+        "options": ["Paris", "London", "Berlin", "Madrid"],
+        "answer": "Paris"
+    },
+    {
+        "image": "/Image/free-nature-images.jpg",
+        "options": ["Cat", "Dog", "Bird", "Fish"],
+        "answer": "Cat"
+    }
+]
