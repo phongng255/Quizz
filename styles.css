@@ -163,7 +163,6 @@ table td {
         border-left: none;
         border-top: 2px solid #ccc;
         min-width: unset; /* Bỏ chiều rộng tối thiểu trên điện thoại */
-        padding-left: 2px;
     }
 }
  
