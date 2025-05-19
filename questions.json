@@ -498,5 +498,174 @@
             "D. had better"
         ],
         "answer": "D. had better"
+    },
+    {
+        "question": "NGHE 45: 1. What is the man's name?",
+        "options": [
+            "A. His name is Mike.",
+            "B. He goes by Nick",
+            "C. His friends call him Nate."
+        ],
+        "answer": "B. He goes by Nick"
+    },
+    {
+        "question": "NGHE 45: 2. Where is the man from?",
+        "options": [
+            "A. He's from Brownston.",
+            "B. His hometown is Brownsburg.",
+            "C. He's originally from Brownsville."
+        ],
+        "answer": "C. He's originally from Brownsville."
+    },
+    {
+        "question": "NGHE 45: 3. How old is the man?",
+        "options": [
+            "A. He's in his early twenties",
+            "B. He's in his mid twenties.",
+            "C. He's in his late twenties."
+        ],
+        "answer": "A. He's in his early twenties"
+    },
+    {
+        "question": "NGHE 45: 4. Where did the man meet Sarah?",
+        "options": [
+            "A. He met her on a bus.",
+            "B. They were introduced at a party.",
+            "C. He saw her in a language class."
+        ],
+        "answer": "C. He saw her in a language class."
+    },
+    {
+        "question": "NGHE 45: 5. Sarah's older sister is worried that Nick",
+        "options": [
+            "A. is a terrible language teacher",
+            "B. is going to be a negative influence on her",
+            "C. charges too much money for lessons"
+        ],
+        "answer": "B. is going to be a negative influence on her"
+    },
+    {
+        "question": "NGHE: 46: 1. What is the man's name?",
+        "options": [
+            "A. His name is Mike.",
+            "B. He goes by Nick.",
+            "C. His friends call him Nate."
+        ],
+        "answer": "B. He goes by Nick."
+    },
+    {
+        "question": "NGHE: 46: 2. Where is the man from?",
+        "options": [
+            "A. He's from Brownston.",
+            "B. His hometown is Brownsburg.",
+            "C. He's originally from Brownsville."
+        ],
+        "answer": "C. He's originally from Brownsville."
+    },
+    {
+        "question": "NGHE: 46: 3. How old is the man?",
+        "options": [
+            "A. He's in his early twenties",
+            "B. He's in his mid twenties.",
+            "C. He's in his late twenties."
+        ],
+        "answer": "A. He's in his early twenties"
+    },
+    {
+        "question": "NGHE: 46: 4. Where did the man meet Sarah?",
+        "options": [
+            "A. He met her on a bus.",
+            "B. They were introduced at a party.",
+            "C. He saw her in a language class."
+        ],
+        "answer": "C. He saw her in a language class."
+    },
+    {
+        "question": "NGHE: 46: 5. Sarah's older sister is worried that Nick",
+        "options": [
+            "A. is a terrible language teacher",
+            "B. is going to be a negative influence on her",
+            "C. charges too much money for lessons"
+        ],
+        "answer": "B. is going to be a negative influence on her"
+    },
+    {
+        "question": "NGHE: 64: 1. Ten workers have been rescued from an accident 400 feet beneath the streets of New York.",
+        "options": [
+            "A. True",
+            "B. False"
+        ],
+        "answer": "A. True"
+    },
+    {
+        "question": "NGHE: 64: 2. The workers had spent the past 26 hours trapped underground.",
+        "options": [
+            "A. True",
+            "B. False"
+        ],
+        "answer": "B. False"
+    },
+    {
+        "question": "NGHE: 64: 3. The workers had been digging a tunnel for a new subway line when the roof of their tunnel collapsed.",
+        "options": [
+            "A. True",
+            "B. False"
+        ],
+        "answer": "A. True"
+    },
+    {
+        "question": "NGHE: 64: 4. Sixteen men managed to escape immediately, but two were fatally injured.",
+        "options": [
+            "A. True",
+            "B. False"
+        ],
+        "answer": "A. True"
+    },
+    {
+        "question": "NGHE: 64: 5. Last night the nine men were recovering in the hospital.",
+        "options": [
+            "A. True",
+            "B. False"
+        ],
+        "answer": "B. False"
+    },{
+        "question": "NGHE: 65: 1. Three children who had been missing for two days have been found safe and sound.",
+        "options": [
+            "A. True",
+            "B. False"
+        ],
+        "answer": "A. True"
+    },
+    {
+        "question": "NGHE: 65: 2. The three-ten-year-olds, a boy and two girl, disappeared after school on Wednesday.",
+        "options": [
+            "A. True",
+            "B. False"
+        ],
+        "answer": "B. False"
+    },
+    {
+        "question": "NGHE: 65: 3. Police had released photographs of the two and had been searching nearby houses.",
+        "options": [
+            "A. True",
+            "B. False"
+        ],
+        "answer": "B. False"
+    },
+    {
+        "question": "NGHE: 65: 4. Neighbor spotted three children and alerted the police.",
+        "options": [
+            "A. True",
+            "B. False"
+        ],
+        "answer": "A. True"
+    },
+    {
+        "question": "NGHE: 65: 5. The children had slept outside in a garden and realised the concern they caused.",
+        "options": [
+            "A. True",
+            "B. False"
+        ],
+        "answer": "B. False"
     }
 ]
