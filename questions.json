@@ -389,116 +389,114 @@
         ],
         "answer": "D. imagination"
     },
-    [
-        {
-            "question": "I’ve got the ____________ that they’re lying again.",
-            "options": [
-                "A. impression",
-                "B. admiration",
-                "C. imagination",
-                "D. description"
-            ],
-            "answer": "A. impression"
-        },
-        {
-            "question": "The Carltons have never _________ Denmark before.",
-            "options": [
-                "A. been to",
-                "B. gone to",
-                "C. gone in",
-                "D. been at"
-            ],
-            "answer": "A. been to"
-        },
-        {
-            "question": "Have you __________ thought of studying abroad?",
-            "options": [
-                "A. since",
-                "B. before",
-                "C. never",
-                "D. ever"
-            ],
-            "answer": "D. ever"
-        },
-        {
-            "question": "Danny __________ tennis since he was a child.",
-            "options": [
-                "A. played",
-                "B. plays",
-                "C. been playing",
-                "D. has been playing"
-            ],
-            "answer": "D. has been playing"
-        },
-        {
-            "question": "It has been raining heavily __________ our plane took off two hours ago.",
-            "options": [
-                "A. while",
-                "B. already",
-                "C. since",
-                "D. still"
-            ],
-            "answer": "C. since"
-        },
-        {
-            "question": "Mr. Marfin __________ go on business trip very often.",
-            "options": [
-                "A. need",
-                "B. needs",
-                "C. doesn’t have",
-                "D. has to"
-            ],
-            "answer": "B. needs"
-        },
-        {
-            "question": "We can’t meet Jack today. We __________ to work overtime.",
-            "options": [
-                "A. have",
-                "B. must",
-                "C. had better",
-                "D. would rather"
-            ],
-            "answer": "B. must"
-        },
-        {
-            "question": "I’d __________ join you for dinner than stay at home.",
-            "options": [
-                "A. rather",
-                "B. had better",
-                "C. need",
-                "D. must"
-            ],
-            "answer": "A. rather"
-        },
-        {
-            "question": "Luckily, we __________ wait for them. We can leave right now.",
-            "options": [
-                "A. don’t have",
-                "B. don’t need",
-                "C. needn’t",
-                "D. not have to"
-            ],
-            "answer": "C. needn’t"
-        },
-        {
-            "question": "She __________ still be at home. I talked to her on the phone a couple of minutes ago.",
-            "options": [
-                "A. has to",
-                "B. better",
-                "C. must",
-                "D. needs"
-            ],
-            "answer": "C. must"
-        },
-        {
-            "question": "I __________ see an optician. I can’t see very clearly lately.",
-            "options": [
-                "A. would rather",
-                "B. may not",
-                "C. might not",
-                "D. had better"
-            ],
-            "answer": "D. had better"
-        }
-    ]
+    {
+        "question": "I’ve got the ____________ that they’re lying again.",
+        "options": [
+            "A. impression",
+            "B. admiration",
+            "C. imagination",
+            "D. description"
+        ],
+        "answer": "A. impression"
+    },
+    {
+        "question": "The Carltons have never _________ Denmark before.",
+        "options": [
+            "A. been to",
+            "B. gone to",
+            "C. gone in",
+            "D. been at"
+        ],
+        "answer": "A. been to"
+    },
+    {
+        "question": "Have you __________ thought of studying abroad?",
+        "options": [
+            "A. since",
+            "B. before",
+            "C. never",
+            "D. ever"
+        ],
+        "answer": "D. ever"
+    },
+    {
+        "question": "Danny __________ tennis since he was a child.",
+        "options": [
+            "A. played",
+            "B. plays",
+            "C. been playing",
+            "D. has been playing"
+        ],
+        "answer": "D. has been playing"
+    },
+    {
+        "question": "It has been raining heavily __________ our plane took off two hours ago.",
+        "options": [
+            "A. while",
+            "B. already",
+            "C. since",
+            "D. still"
+        ],
+        "answer": "C. since"
+    },
+    {
+        "question": "Mr. Marfin __________ go on business trip very often.",
+        "options": [
+            "A. need",
+            "B. needs",
+            "C. doesn’t have",
+            "D. has to"
+        ],
+        "answer": "B. needs"
+    },
+    {
+        "question": "We can’t meet Jack today. We __________ to work overtime.",
+        "options": [
+            "A. have",
+            "B. must",
+            "C. had better",
+            "D. would rather"
+        ],
+        "answer": "B. must"
+    },
+    {
+        "question": "I’d __________ join you for dinner than stay at home.",
+        "options": [
+            "A. rather",
+            "B. had better",
+            "C. need",
+            "D. must"
+        ],
+        "answer": "A. rather"
+    },
+    {
+        "question": "Luckily, we __________ wait for them. We can leave right now.",
+        "options": [
+            "A. don’t have",
+            "B. don’t need",
+            "C. needn’t",
+            "D. not have to"
+        ],
+        "answer": "C. needn’t"
+    },
+    {
+        "question": "She __________ still be at home. I talked to her on the phone a couple of minutes ago.",
+        "options": [
+            "A. has to",
+            "B. better",
+            "C. must",
+            "D. needs"
+        ],
+        "answer": "C. must"
+    },
+    {
+        "question": "I __________ see an optician. I can’t see very clearly lately.",
+        "options": [
+            "A. would rather",
+            "B. may not",
+            "C. might not",
+            "D. had better"
+        ],
+        "answer": "D. had better"
+    }
 ]
