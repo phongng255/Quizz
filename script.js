@@ -4,18 +4,28 @@ let score = 0;
 let lastQuestionIndex = 0; // Thêm biến này ở đầu file
  
 // // Function to shuffle an array
-// function shuffleArray(array) {
-    // for (let i = array.length - 1; i > 0; i--) {
-        // const j = Math.floor(Math.random() * (i + 1));
-        // [array[i], array[j]] = [array[j], array[i]];
-    // }
-// }
+function shuffleArray(array) {
+    for (let i = array.length - 1; i > 0; i--) {
+        const j = Math.floor(Math.random() * (i + 1));
+        [array[i], array[j]] = [array[j], array[i]];
+    }
+}
+
+function shuffleArrayOption(array) {
+    const shuffled = array.slice(); // copy để giữ mảng gốc
+    for (let i = shuffled.length - 1; i > 0; i--) {
+        const j = Math.floor(Math.random() * (i + 1));
+        [shuffled[i], shuffled[j]] = [shuffled[j], shuffled[i]];
+    }
+    return shuffled;
+}
+
 // Load questions and shuffle them
 fetch('questions.json')
     .then(response => response.json())
     .then(data => {
         questions = data;
-        // shuffleArray(questions); // Shuffle questions
+        shuffleArray(questions); // Shuffle questions
         displayQuestion();
         renderQuestionList();
         updateResult();
@@ -27,6 +37,8 @@ function displayQuestion() {
         const question = questions[currentQuestionIndex];
         const questionContainer = document.getElementById('question-container');
 
+        const shuffledOptions = shuffleArrayOption(question.options); // Shuffle Option
+
         let questionContent = '';
         if (question.question) {
             questionContent = `<h2>Question ${currentQuestionIndex + 1}: ${question.question}</h2>`;
@@ -37,7 +49,7 @@ function displayQuestion() {
         questionContainer.innerHTML = `
             ${questionContent}
             <div id="options">
-                ${question.options.map((option, index) =>
+                ${shuffledOptions.map((option, index) =>
                     `<label>
                         <input type="radio" name="answer" value="${option}"> ${option}
                     </label><br>`

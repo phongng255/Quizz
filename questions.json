@@ -2,670 +2,881 @@
     {
         "question": "Teddy ____________ of moving closer to the city centre.",
         "options": [
-            "A. thinks",
-            "B. is thinking",
-            "C. don’t think",
-            "D. aren’t thinking"
+            "thinks",
+            "is thinking",
+            "don’t think",
+            "aren’t thinking"
         ],
-        "answer": "B. is thinking"
+        "answer": "is thinking"
     },
     {
         "question": "We ____________ giving you a lift home.",
         "options": [
-            "A. don’t mind",
-            "B. aren’t minding",
-            "C. doesn’t mind",
-            "D. isn’t minding"
+            "don’t mind",
+            "aren’t minding",
+            "doesn’t mind",
+            "isn’t minding"
         ],
-        "answer": "A. don’t mind"
+        "answer": "don’t mind"
     },
     {
         "question": "The Potters ____________ to Dubai at 9:00 tomorrow morning.",
         "options": [
-            "A. is flying",
-            "B. don’t fly",
-            "C. doesn’t fly",
-            "D. are flying"
+            "is flying",
+            "don’t fly",
+            "doesn’t fly",
+            "are flying"
         ],
-        "answer": "D. are flying"
+        "answer": "are flying"
     },
     {
         "question": "____________ is your favorite European city?",
         "options": [
-            "A. When",
-            "B. How",
-            "C. Which",
-            "D. Who"
+            "When",
+            "How",
+            "Which",
+            "Who"
         ],
-        "answer": "C. Which"
+        "answer": "Which"
     },
     {
         "question": "____________ much do they charge for a single room with breakfast?",
         "options": [
-            "A. How",
-            "B. Who",
-            "C. What",
-            "D. Where"
+            "How",
+            "Who",
+            "What",
+            "Where"
         ],
-        "answer": "A. How"
+        "answer": "How"
     },
     {
         "question": "____________ is your brother talking to?",
         "options": [
-            "A. When",
-            "B. Who",
-            "C. Whose",
-            "D. How"
+            "When",
+            "Who",
+            "Whose",
+            "How"
         ],
-        "answer": "B. Who"
+        "answer": "Who"
     },
     {
         "question": "The teacher ____________ believe his excuse for not coming to school yesterday.",
         "options": [
-            "A. didn’t",
-            "B. don’t",
-            "C. used to not",
-            "D. use to"
+            "didn’t",
+            "don’t",
+            "used to not",
+            "use to"
         ],
-        "answer": "A. didn’t"
+        "answer": "didn’t"
     },
     {
         "question": "Bobby ____________ skinny when he was a child.",
         "options": [
-            "A. was used to",
-            "B. were",
-            "C. used to be",
-            "D. got used"
+            "was used to",
+            "were",
+            "used to be",
+            "got used"
         ],
-        "answer": "C. used to be"
+        "answer": "used to be"
     },
     {
         "question": "____________ to contact Mr. Peterson twice, but didn’t find him.",
         "options": [
-            "A. tried",
-            "B. tries",
-            "C. used to try",
-            "D. try"
+            "tried",
+            "tries",
+            "used to try",
+            "try"
         ],
-        "answer": "A. tried"
+        "answer": "tried"
     },
     {
         "question": "After a couple of days, Sam finally ____________ up early in the morning.",
         "options": [
-            "A. used to wake",
-            "B. get used to wake",
-            "C. wake",
-            "D. got used to waking"
+            "used to wake",
+            "get used to wake",
+            "wake",
+            "got used to waking"
         ],
-        "answer": "D. got used to waking"
+        "answer": "got used to waking"
     },
     {
         "question": "It took him a month to recover ____________ his illness.",
         "options": [
-            "A. for",
-            "B. from",
-            "C. of",
-            "D. at"
+            "for",
+            "from",
+            "of",
+            "at"
         ],
-        "answer": "B. from"
+        "answer": "from"
     },
     {
         "question": "The book exhibition took ____________ at the Carlton Hotel.",
         "options": [
-            "A. part",
-            "B. advantage",
-            "C. it easy",
-            "D. place"
+            "part",
+            "advantage",
+            "it easy",
+            "place"
         ],
-        "answer": "D. place"
+        "answer": "place"
     },
     {
         "question": "I didn’t ____________ Jason to come on time.",
         "options": [
-            "A. expect",
-            "B. remember",
-            "C. wait",
-            "D. reminded"
+            "expect",
+            "remember",
+            "wait",
+            "reminded"
         ],
-        "answer": "A. expect"
+        "answer": "expect"
     },
     {
         "question": "I’m sorry but I can’t find it ____________ the map.",
         "options": [
-            "A. over",
-            "B. on",
-            "C. between",
-            "D. along"
+            "over",
+            "on",
+            "between",
+            "along"
         ],
-        "answer": "B. on"
+        "answer": "on"
     },
     {
         "question": "They spent the whole day in Alexandria looking at the ____________.",
         "options": [
-            "A. tasks",
-            "B. part",
-            "C. jobs",
-            "D. sights"
+            "tasks",
+            "part",
+            "jobs",
+            "sights"
         ],
-        "answer": "D. sights"
+        "answer": "sights"
     },
     {
         "question": "He was lucky to find that ____________ in their law firm.",
         "options": [
-            "A. job",
-            "B. work",
-            "C. site",
-            "D. task"
+            "job",
+            "work",
+            "site",
+            "task"
         ],
-        "answer": "A. job"
+        "answer": "job"
     },
     {
         "question": "I think that these trainers belong ____________ your brother.",
         "options": [
-            "A. on",
-            "B. in",
-            "C. to",
-            "D. at"
+            "on",
+            "in",
+            "to",
+            "at"
         ],
-        "answer": "C. to"
+        "answer": "to"
     },
     {
         "question": "They usually take ____________ of what I tell them.",
         "options": [
-            "A. their time",
-            "B. part",
-            "C. place",
-            "D. no notice"
+            "their time",
+            "part",
+            "place",
+            "no notice"
         ],
-        "answer": "D. no notice"
+        "answer": "no notice"
     },
     {
         "question": "We never argue ____________ our teacher.",
         "options": [
-            "A. with",
-            "B. at",
-            "C. at",
-            "D. from"
+            "with",
+            "at",
+            "at",
+            "from"
         ],
-        "answer": "A. with"
+        "answer": "with"
     },
     {
         "question": "This dish is very healthy because it consists ____________ fish and vegetables.",
         "options": [
-            "A. on",
-            "B. of",
-            "C. at",
-            "D. with"
+            "on",
+            "of",
+            "at",
+            "with"
         ],
-        "answer": "B. of"
+        "answer": "of"
     },
     {
         "question": "Tim ____________ the news, while his son was playing computer games.",
         "options": [
-            "A. is watching",
-            "B. watches",
-            "C. was watching",
-            "D. watching"
+            "is watching",
+            "watches",
+            "was watching",
+            "watching"
         ],
-        "answer": "C. was watching"
+        "answer": "was watching"
     },
     {
         "question": "Lenny ____________ his old house two months ago.",
         "options": [
-            "A. were selling",
-            "B. sells",
-            "C. is selling",
-            "D. sold"
+            "were selling",
+            "sells",
+            "is selling",
+            "sold"
         ],
-        "answer": "D. sold"
+        "answer": "sold"
     },
     {
         "question": "He didn’t meet Joe and Alf, because they left ____________ than they usually do.",
         "options": [
-            "A. early",
-            "B. earlier",
-            "C. earliest",
-            "D. the earliest"
+            "early",
+            "earlier",
+            "earliest",
+            "the earliest"
         ],
-        "answer": "B. earlier"
+        "answer": "earlier"
     },
     {
         "question": "__________ you finish your report on time?",
         "options": [
-            "A. Was",
-            "B. Are",
-            "C. Did",
-            "D. Were"
+            "Was",
+            "Are",
+            "Did",
+            "Were"
         ],
-        "answer": "C. Did"
+        "answer": "Did"
     },
     {
         "question": "I was resting all day yesterday, because I was ____________ tired.",
         "options": [
-            "A. terrible",
-            "B. most terrible",
-            "C. terribly",
-            "D. more terribly"
+            "terrible",
+            "most terrible",
+            "terribly",
+            "more terribly"
         ],
-        "answer": "C. terribly"
+        "answer": "terribly"
     },
     {
         "question": "Robert was crossing the street when he ____________ Fred riding a motorcycle.",
         "options": [
-            "A. saw",
-            "B. was seeing",
-            "C. seeing",
-            "D. is seeing"
+            "saw",
+            "was seeing",
+            "seeing",
+            "is seeing"
         ],
-        "answer": "A. saw"
+        "answer": "saw"
     },
     {
         "question": "This artist is ____________ famous of all three that you mentioned.",
         "options": [
-            "A. the less",
-            "B. least",
-            "C. less",
-            "D. the least"
+            "the less",
+            "least",
+            "less",
+            "the least"
         ],
-        "answer": "D. the least"
+        "answer": "the least"
     },
     {
         "question": "That’s the boy ____________ father is our teacher.",
         "options": [
-            "A. who",
-            "B. which",
-            "C. whose",
-            "D. that"
+            "who",
+            "which",
+            "whose",
+            "that"
         ],
-        "answer": "C. whose"
+        "answer": "whose"
     },
     {
         "question": "Can you tell me ____________ to put these boxes?",
         "options": [
-            "A. where",
-            "B. when",
-            "C. which",
-            "D. who"
+            "where",
+            "when",
+            "which",
+            "who"
         ],
-        "answer": "A. where"
+        "answer": "where"
     },
     {
         "question": "Mark, ____________ is only twenty, teaches French.",
         "options": [
-            "A. which",
-            "B. who",
-            "C. when",
-            "D. whose"
+            "which",
+            "who",
+            "when",
+            "whose"
         ],
-        "answer": "B. who"
+        "answer": "who"
     },
     {
         "question": "My doctor advised me to ____________ a sport.",
         "options": [
-            "A. take off",
-            "B. take after",
-            "C. take up",
-            "D. take on"
+            "take off",
+            "take after",
+            "take up",
+            "take on"
         ],
-        "answer": "C. take up"
+        "answer": "take up"
     },
     {
         "question": "I can’t believe that they ____________ your offer.",
         "options": [
-            "A. turned on",
-            "B. turned off",
-            "C. turned out",
-            "D. turned down"
+            "turned on",
+            "turned off",
+            "turned out",
+            "turned down"
         ],
-        "answer": "D. turned down"
+        "answer": "turned down"
     },
     {
         "question": "When I suggested a walk in the woods, he ____________.",
         "options": [
-            "A. credited",
-            "B. nodded",
-            "C. raised",
-            "D. shook"
+            "credited",
+            "nodded",
+            "raised",
+            "shook"
         ],
-        "answer": "B. nodded"
+        "answer": "nodded"
     },
     {
         "question": "After his mother’s ____________, he moved to Argentina.",
         "options": [
-            "A. death",
-            "B. strength",
-            "C. power",
-            "D. impression"
+            "death",
+            "strength",
+            "power",
+            "impression"
         ],
-        "answer": "A. death"
+        "answer": "death"
     },
     {
         "question": "It was really ____________ that nobody was hurt in that accident.",
         "options": [
-            "A. strong",
-            "B. powerful",
-            "C. incredible",
-            "D. truthful"
+            "strong",
+            "powerful",
+            "incredible",
+            "truthful"
         ],
-        "answer": "C. incredible"
+        "answer": "incredible"
     },
     {
         "question": "Both my children are afraid ____________ the dark.",
         "options": [
-            "A. of",
-            "B. for",
-            "C. on",
-            "D. with"
+            "of",
+            "for",
+            "on",
+            "with"
         ],
-        "answer": "A. of"
+        "answer": "of"
     },
     {
         "question": "They did everything in their ____________ to keep the company.",
         "options": [
-            "A. truth",
-            "B. strength",
-            "C. impression",
-            "D. power"
+            "truth",
+            "strength",
+            "impression",
+            "power"
         ],
-        "answer": "D. power"
+        "answer": "power"
     },
     {
         "question": "I bought a leather bag that ____________ my new boots.",
         "options": [
-            "A. match",
-            "B. matches",
-            "C. suits",
-            "D. suit"
+            "match",
+            "matches",
+            "suits",
+            "suit"
         ],
-        "answer": "B. matches"
+        "answer": "matches"
     },
     {
         "question": "Both her children have a very vivid ____________.",
         "options": [
-            "A. description",
-            "B. impression",
-            "C. admiration",
-            "D. imagination"
+            "description",
+            "impression",
+            "admiration",
+            "imagination"
         ],
-        "answer": "D. imagination"
+        "answer": "imagination"
     },
     {
         "question": "I’ve got the ____________ that they’re lying again.",
         "options": [
-            "A. impression",
-            "B. admiration",
-            "C. imagination",
-            "D. description"
+            "impression",
+            "admiration",
+            "imagination",
+            "description"
         ],
-        "answer": "A. impression"
+        "answer": "impression"
     },
     {
         "question": "The Carltons have never _________ Denmark before.",
         "options": [
-            "A. been to",
-            "B. gone to",
-            "C. gone in",
-            "D. been at"
+            "been to",
+            "gone to",
+            "gone in",
+            "been at"
         ],
-        "answer": "A. been to"
+        "answer": "been to"
     },
     {
         "question": "Have you __________ thought of studying abroad?",
         "options": [
-            "A. since",
-            "B. before",
-            "C. never",
-            "D. ever"
+            "since",
+            "before",
+            "never",
+            "ever"
         ],
-        "answer": "D. ever"
+        "answer": "ever"
     },
     {
         "question": "Danny __________ tennis since he was a child.",
         "options": [
-            "A. played",
-            "B. plays",
-            "C. been playing",
-            "D. has been playing"
+            "played",
+            "plays",
+            "been playing",
+            "has been playing"
         ],
-        "answer": "D. has been playing"
+        "answer": "has been playing"
     },
     {
         "question": "It has been raining heavily __________ our plane took off two hours ago.",
         "options": [
-            "A. while",
-            "B. already",
-            "C. since",
-            "D. still"
+            "while",
+            "already",
+            "since",
+            "still"
         ],
-        "answer": "C. since"
+        "answer": "since"
     },
     {
         "question": "Mr. Marfin __________ go on business trip very often.",
         "options": [
-            "A. need",
-            "B. needs",
-            "C. doesn’t have",
-            "D. has to"
+            "need",
+            "needs",
+            "doesn’t have",
+            "has to"
         ],
-        "answer": "B. needs"
+        "answer": "needs"
     },
     {
         "question": "We can’t meet Jack today. We __________ to work overtime.",
         "options": [
-            "A. have",
-            "B. must",
-            "C. had better",
-            "D. would rather"
+            "have",
+            "must",
+            "had better",
+            "would rather"
         ],
-        "answer": "B. must"
+        "answer": "have"
     },
     {
         "question": "I’d __________ join you for dinner than stay at home.",
         "options": [
-            "A. rather",
-            "B. had better",
-            "C. need",
-            "D. must"
+            "rather",
+            "had better",
+            "need",
+            "must"
         ],
-        "answer": "A. rather"
+        "answer": "rather"
     },
     {
         "question": "Luckily, we __________ wait for them. We can leave right now.",
         "options": [
-            "A. don’t have",
-            "B. don’t need",
-            "C. needn’t",
-            "D. not have to"
+            "don’t have",
+            "don’t need",
+            "needn’t",
+            "not have to"
         ],
-        "answer": "C. needn’t"
+        "answer": "needn’t"
     },
     {
         "question": "She __________ still be at home. I talked to her on the phone a couple of minutes ago.",
         "options": [
-            "A. has to",
-            "B. better",
-            "C. must",
-            "D. needs"
+            "has to",
+            "better",
+            "must",
+            "needs"
         ],
-        "answer": "C. must"
+        "answer": "must"
     },
     {
         "question": "I __________ see an optician. I can’t see very clearly lately.",
         "options": [
-            "A. would rather",
-            "B. may not",
-            "C. might not",
-            "D. had better"
+            "would rather",
+            "may not",
+            "might not",
+            "had better"
         ],
-        "answer": "D. had better"
+        "answer": "had better"
     },
     {
-        "question": "NGHE 45: 1. What is the man's name?",
+        "question": "Text 45: 1. Where did Doug and Diane first meet?",
         "options": [
-            "A. His name is Mike.",
-            "B. He goes by Nick",
-            "C. His friends call him Nate."
+            "at school",
+            "at a restaurant",
+            "at a party"
         ],
-        "answer": "B. He goes by Nick"
+        "answer": "at a party"
     },
     {
-        "question": "NGHE 45: 2. Where is the man from?",
+        "question": "Text 45: 2. How did he know where she lived?",
         "options": [
-            "A. He's from Brownston.",
-            "B. His hometown is Brownsburg.",
-            "C. He's originally from Brownsville."
+            "He asked a friend for directions.",
+            "He followed her home.",
+            "He looked her up in the phone book."
         ],
-        "answer": "C. He's originally from Brownsville."
+        "answer": "He asked a friend for directions."
     },
     {
-        "question": "NGHE 45: 3. How old is the man?",
+        "question": "Text 45: 3. Where does Doug invite her to go with him on Thursday?",
         "options": [
-            "A. He's in his early twenties",
-            "B. He's in his mid twenties.",
-            "C. He's in his late twenties."
+            "to a restaurant",
+            "to a theater",
+            "to a dance"
         ],
-        "answer": "A. He's in his early twenties"
+        "answer": "to a theater"
     },
     {
-        "question": "NGHE 45: 4. Where did the man meet Sarah?",
+        "question": "Text 45: 4. What is Diane's response to his invitation on Thursday?",
         "options": [
-            "A. He met her on a bus.",
-            "B. They were introduced at a party.",
-            "C. He saw her in a language class."
+            "She can't go out because she has to study.",
+            "She is sorry, but she has another date.",
+            "She has to work that day, so she can't go."
         ],
-        "answer": "C. He saw her in a language class."
+        "answer": "She has to work that day, so she can't go."
     },
     {
-        "question": "NGHE 45: 5. Sarah's older sister is worried that Nick",
+        "question": "Text 45: 5. How does Diane feel about Doug's idea for Friday?",
         "options": [
-            "A. is a terrible language teacher",
-            "B. is going to be a negative influence on her",
-            "C. charges too much money for lessons"
+            "She thinks it would be a great idea if she had the time.",
+            "She feels that it would be an uninteresting outing.",
+            "She has done the activity before, so she'd rather not go."
         ],
-        "answer": "B. is going to be a negative influence on her"
+        "answer": "She feels that it would be an uninteresting outing."
     },
     {
         "question": "NGHE: 46: 1. What is the man's name?",
         "options": [
-            "A. His name is Mike.",
-            "B. He goes by Nick.",
-            "C. His friends call him Nate."
+            "His name is Mike.",
+            "He goes by Nick.",
+            "His friends call him Nate."
         ],
-        "answer": "B. He goes by Nick."
+        "answer": "He goes by Nick."
     },
     {
         "question": "NGHE: 46: 2. Where is the man from?",
         "options": [
-            "A. He's from Brownston.",
-            "B. His hometown is Brownsburg.",
-            "C. He's originally from Brownsville."
+            "He's from Brownston.",
+            "His hometown is Brownsburg.",
+            "He's originally from Brownsville."
         ],
-        "answer": "C. He's originally from Brownsville."
+        "answer": "He's originally from Brownsville."
     },
     {
         "question": "NGHE: 46: 3. How old is the man?",
         "options": [
-            "A. He's in his early twenties",
-            "B. He's in his mid twenties.",
-            "C. He's in his late twenties."
+            "He's in his early twenties",
+            "He's in his mid twenties.",
+            "He's in his late twenties."
         ],
-        "answer": "A. He's in his early twenties"
+        "answer": "He's in his early twenties"
     },
     {
         "question": "NGHE: 46: 4. Where did the man meet Sarah?",
         "options": [
-            "A. He met her on a bus.",
-            "B. They were introduced at a party.",
-            "C. He saw her in a language class."
+            "He met her on a bus.",
+            "They were introduced at a party.",
+            "He saw her in a language class."
         ],
-        "answer": "C. He saw her in a language class."
+        "answer": "He saw her in a language class."
     },
     {
         "question": "NGHE: 46: 5. Sarah's older sister is worried that Nick",
         "options": [
-            "A. is a terrible language teacher",
-            "B. is going to be a negative influence on her",
-            "C. charges too much money for lessons"
+            "is a terrible language teacher",
+            "is going to be a negative influence on her",
+            "charges too much money for lessons"
         ],
-        "answer": "B. is going to be a negative influence on her"
+        "answer": "is going to be a negative influence on her"
     },
     {
         "question": "NGHE: 64: 1. Ten workers have been rescued from an accident 400 feet beneath the streets of New York.",
         "options": [
-            "A. True",
-            "B. False"
+            "True",
+            "False"
         ],
-        "answer": "A. True"
+        "answer": "True"
     },
     {
         "question": "NGHE: 64: 2. The workers had spent the past 26 hours trapped underground.",
         "options": [
-            "A. True",
-            "B. False"
+            "True",
+            "False"
         ],
-        "answer": "B. False"
+        "answer": "False"
     },
     {
         "question": "NGHE: 64: 3. The workers had been digging a tunnel for a new subway line when the roof of their tunnel collapsed.",
         "options": [
-            "A. True",
-            "B. False"
+            "True",
+            "False"
         ],
-        "answer": "A. True"
+        "answer": "True"
     },
     {
         "question": "NGHE: 64: 4. Sixteen men managed to escape immediately, but two were fatally injured.",
         "options": [
-            "A. True",
-            "B. False"
+            "True",
+            "False"
         ],
-        "answer": "A. True"
+        "answer": "True"
     },
     {
         "question": "NGHE: 64: 5. Last night the nine men were recovering in the hospital.",
         "options": [
-            "A. True",
-            "B. False"
+            "True",
+            "False"
         ],
-        "answer": "B. False"
-    },{
+        "answer": "False"
+    },
+    {
         "question": "NGHE: 65: 1. Three children who had been missing for two days have been found safe and sound.",
         "options": [
-            "A. True",
-            "B. False"
+            "True",
+            "False"
         ],
-        "answer": "A. True"
+        "answer": "True"
     },
     {
         "question": "NGHE: 65: 2. The three-ten-year-olds, a boy and two girl, disappeared after school on Wednesday.",
         "options": [
-            "A. True",
-            "B. False"
+            "True",
+            "False"
         ],
-        "answer": "B. False"
+        "answer": "False"
     },
     {
         "question": "NGHE: 65: 3. Police had released photographs of the two and had been searching nearby houses.",
         "options": [
-            "A. True",
-            "B. False"
+            "True",
+            "False"
         ],
-        "answer": "B. False"
+        "answer": "False"
     },
     {
         "question": "NGHE: 65: 4. Neighbor spotted three children and alerted the police.",
         "options": [
-            "A. True",
-            "B. False"
+            "True",
+            "False"
         ],
-        "answer": "A. True"
+        "answer": "True"
     },
     {
         "question": "NGHE: 65: 5. The children had slept outside in a garden and realised the concern they caused.",
         "options": [
-            "A. True",
-            "B. False"
+            "True",
+            "False"
         ],
-        "answer": "B. False"
+        "answer": "False"
+    },
+    {
+        "image": "image/1.png",
+        "options": [
+            "Always keep this door open.",
+            "Do not park in front of this entrance.",
+            "Permission is needed to park here.",
+            "Only use this entrance in an emergency."
+        ],
+        "answer": "Do not park in front of this entrance."
+    },
+    {
+        "image": "image/2.png",
+        "options": [
+            "Drinks cannot be ordered at the bar.",
+            "Use this machine when the bar is closed.",
+            "There is a drinks machine in the bar.",
+            "This machine is not working at the moment."
+        ],
+        "answer": "This machine is not working at the moment."
+    },
+    {
+        "image": "image/3.png",
+        "options": [
+            "The librarian needs to see your books before you go.",
+            "Make sure you take all your books with you.",
+            "Return your books before you leave the library.",
+            "The librarian will show you where to put your books."
+        ],
+        "answer": "The librarian needs to see your books before you go."
+    },
+    {
+        "image": "image/4.png",
+        "options": [
+            "This room cannot be used at present.",
+            "This door must always be kept locked.",
+            "Lock the room when it is not being used.",
+            "Keep the key to this door in the room."
+        ],
+        "answer": "This door must always be kept locked."
+    },
+    {
+        "image": "image/5.png",
+        "options": [
+            "Supersaver tickets can be used every day except Fridays.",
+            "You need a special ticket to travel on a Friday.",
+            "Supersaver tickets cannot be bought before the weekend.",
+            "You can save money by travelling on a Friday."
+        ],
+        "answer": "Supersaver tickets can be used every day except Fridays."
+    },
+    {
+        "image": "image/6.png",
+        "options": [
+            "Do not forget to put your luggage outside your room.",
+            "Keep the corridor clear of luggage.",
+            "Bags left in the corridor will be removed.",
+            "Bags will be collected from the corridor."
+        ],
+        "answer": "Keep the corridor clear of luggage."
+    },
+    {
+        "image": "image/7.png",
+        "options": [
+            "Wait upstairs to see the nurse.",
+            "Go upstairs to make an appointment with the nurse.",
+            "The nurse will tell you when it is your turn.",
+            "The nurse can only see patients with appointments."
+        ],
+        "answer": "The nurse can only see patients with appointments."
+    },
+    {
+        "image": "image/8.png",
+        "options": [
+            "Do not touch the fruit before paying for it.",
+            "Damaged fruit must be paid for.",
+            "Self-service fruit is cheaper.",
+            "Choose your fruit and then pay for it."
+        ],
+        "answer": "Choose your fruit and then pay for it."
+    },
+    {
+        "image": "image/9.png",
+        "options": [
+            "Please be quiet while people are taking their examination.",
+            "Do not talk to the examiner.",
+            "Do not speak during the examination.",
+            "The examiner will tell you when you can talk."
+        ],
+        "answer": "Please be quiet while people are taking their examination."
+    },
+    {
+        "image": "image/10.png",
+        "options": [
+            "Bring your computer here for repairs.",
+            "We will not mend computers bought from other shops.",
+            "We charge to repair computers not bought here.",
+            "Computers bought here never need repairing."
+        ],
+        "answer": "We will not mend computers bought from other shops."
+    },
+    {
+        "image": "image/11.png",
+        "options": [
+            "The entrance to the bank is through the library.",
+            "The travel agency has moved its entrance.",
+            "The library is now a travel agency.",
+            "The travel agency is no longer open."
+        ],
+        "answer": "The travel agency has moved its entrance."
+    },
+    {
+        "image": "image/12.png",
+        "options": [
+            "This list shows who has been chosen to go on the trip.",
+            "This list should be signed by people wanting to go on the trip.",
+            "Check the list for information if you are going on the trip.",
+            "If you find your name on this list, you can go on the trip."
+        ],
+        "answer": "This list should be signed by people wanting to go on the trip."
+    },
+    {
+        "image": "image/13.png",
+        "options": [
+            "The new ticket office is now open.",
+            "There will be two ticket offices after 17 September.",
+            "This ticket office will be close for one day.",
+            "This ticket office will close on 16 September."
+        ],
+        "answer": "This ticket office will close on 16 September."
+    },
+    {
+        "image": "image/14.png",
+        "options": [
+            "If you spend less than £10, you cannot pay by credit card.",
+            "We prefer cash for large sales.",
+            "We make a charge if you pay by credit card.",
+            "If you spend more than £10, you must pay by credit card."
+        ],
+        "answer": "If you spend less than £10, you cannot pay by credit card."
+    },
+    {
+        "image": "image/15.png",
+        "options": [
+            "Dogs must wait outside.",
+            "Dogs must walk with their owners.",
+            "Dogs must be kept on a chain.",
+            "Dogs must be held."
+        ],
+        "answer": "Dogs must walk with their owners."
+    },
+    {
+        "image": "image/16.png",
+        "options": [
+            "Everything is cheaper this week.",
+            "No extra charges next week.",
+            "Usual prices this week.",
+            "Cheaper prices next week."
+        ],
+        "answer": "Everything is cheaper this week."
+    },
+    {
+        "image": "image/17.png",
+        "options": [
+            "You can send your groceries from here.",
+            "You can store your groceries here.",
+            "You can get your free groceries here.",
+            "You can have your groceries sent to you."
+        ],
+        "answer": "You can have your groceries sent to you."
+    },
+    {
+        "image": "image/18.png",
+        "options": [
+            "Cleaning now costs twice as much.",
+            "Cleaning costs are now cheaper.",
+            "Cleaning costs are going up.",
+            "Cleaning costs will stay the same."
+        ],
+        "answer": "Cleaning costs are now cheaper."
+    },
+    {
+        "image": "image/19.png",
+        "options": [
+            "You must pay to park here.",
+            "If you use the train you can park here.",
+            "This space is for railway officials.",
+            "No one is allowed to park here."
+        ],
+        "answer": "If you use the train you can park here."
+    },
+    {
+        "image": "image/20.png",
+        "options": [
+            "You can buy your ticket during the journey.",
+            "You pay when you get off.",
+            "You have to book a seat before travelling.",
+            "You have to buy a ticket before your journey."
+        ],
+        "answer": "You have to buy a ticket before your journey."
+    },
+    {
+        "image": "image/21.png",
+        "options": [
+            "Passengers are allowed to change their seats.",
+            "Passengers are allowed to eat snacks on the bus.",
+            "Passengers can make noise on the bus.",
+            "Passengers have to follow the bus rules."
+        ],
+        "answer": "Passengers have to follow the bus rules."
     }
 ]
