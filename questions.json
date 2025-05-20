@@ -670,7 +670,7 @@
         "answer": "False"
     },
     {
-        "image": "image/1.png",
+        "image": "https://raw.githubusercontent.com/phongng255/Quizz/main/Image/1.png",
         "options": [
             "Always keep this door open.",
             "Do not park in front of this entrance.",
@@ -680,7 +680,7 @@
         "answer": "Do not park in front of this entrance."
     },
     {
-        "image": "image/2.png",
+        "image": "https://raw.githubusercontent.com/phongng255/Quizz/main/Image/2.png",
         "options": [
             "Drinks cannot be ordered at the bar.",
             "Use this machine when the bar is closed.",
@@ -690,7 +690,7 @@
         "answer": "This machine is not working at the moment."
     },
     {
-        "image": "image/3.png",
+        "image": "https://raw.githubusercontent.com/phongng255/Quizz/main/Image/3.png",
         "options": [
             "The librarian needs to see your books before you go.",
             "Make sure you take all your books with you.",
@@ -700,7 +700,7 @@
         "answer": "The librarian needs to see your books before you go."
     },
     {
-        "image": "image/4.png",
+        "image": "https://raw.githubusercontent.com/phongng255/Quizz/main/Image/4.png",
         "options": [
             "This room cannot be used at present.",
             "This door must always be kept locked.",
@@ -710,7 +710,7 @@
         "answer": "This door must always be kept locked."
     },
     {
-        "image": "image/5.png",
+        "image": "https://raw.githubusercontent.com/phongng255/Quizz/main/Image/5.png",
         "options": [
             "Supersaver tickets can be used every day except Fridays.",
             "You need a special ticket to travel on a Friday.",
@@ -720,7 +720,7 @@
         "answer": "Supersaver tickets can be used every day except Fridays."
     },
     {
-        "image": "image/6.png",
+        "image": "https://raw.githubusercontent.com/phongng255/Quizz/main/Image/6.png",
         "options": [
             "Do not forget to put your luggage outside your room.",
             "Keep the corridor clear of luggage.",
@@ -730,7 +730,7 @@
         "answer": "Keep the corridor clear of luggage."
     },
     {
-        "image": "image/7.png",
+        "image": "https://raw.githubusercontent.com/phongng255/Quizz/main/Image/7.png",
         "options": [
             "Wait upstairs to see the nurse.",
             "Go upstairs to make an appointment with the nurse.",
@@ -740,7 +740,7 @@
         "answer": "The nurse can only see patients with appointments."
     },
     {
-        "image": "image/8.png",
+        "image": "https://raw.githubusercontent.com/phongng255/Quizz/main/Image/8.png",
         "options": [
             "Do not touch the fruit before paying for it.",
             "Damaged fruit must be paid for.",
@@ -750,7 +750,7 @@
         "answer": "Choose your fruit and then pay for it."
     },
     {
-        "image": "image/9.png",
+        "image": "https://raw.githubusercontent.com/phongng255/Quizz/main/Image/9.png",
         "options": [
             "Please be quiet while people are taking their examination.",
             "Do not talk to the examiner.",
@@ -760,7 +760,7 @@
         "answer": "Please be quiet while people are taking their examination."
     },
     {
-        "image": "image/10.png",
+        "image": "https://raw.githubusercontent.com/phongng255/Quizz/main/Image/10.png",
         "options": [
             "Bring your computer here for repairs.",
             "We will not mend computers bought from other shops.",
@@ -770,7 +770,7 @@
         "answer": "We will not mend computers bought from other shops."
     },
     {
-        "image": "image/11.png",
+        "image": "https://raw.githubusercontent.com/phongng255/Quizz/main/Image/11.png",
         "options": [
             "The entrance to the bank is through the library.",
             "The travel agency has moved its entrance.",
@@ -780,7 +780,7 @@
         "answer": "The travel agency has moved its entrance."
     },
     {
-        "image": "image/12.png",
+        "image": "https://raw.githubusercontent.com/phongng255/Quizz/main/Image/12.png",
         "options": [
             "This list shows who has been chosen to go on the trip.",
             "This list should be signed by people wanting to go on the trip.",
@@ -790,7 +790,7 @@
         "answer": "This list should be signed by people wanting to go on the trip."
     },
     {
-        "image": "image/13.png",
+        "image": "https://raw.githubusercontent.com/phongng255/Quizz/main/Image/13.png",
         "options": [
             "The new ticket office is now open.",
             "There will be two ticket offices after 17 September.",
@@ -800,7 +800,7 @@
         "answer": "This ticket office will close on 16 September."
     },
     {
-        "image": "image/14.png",
+        "image": "https://raw.githubusercontent.com/phongng255/Quizz/main/Image/14.png",
         "options": [
             "If you spend less than £10, you cannot pay by credit card.",
             "We prefer cash for large sales.",
@@ -810,7 +810,7 @@
         "answer": "If you spend less than £10, you cannot pay by credit card."
     },
     {
-        "image": "image/15.png",
+        "image": "https://raw.githubusercontent.com/phongng255/Quizz/main/Image/15.png",
         "options": [
             "Dogs must wait outside.",
             "Dogs must walk with their owners.",
@@ -820,7 +820,7 @@
         "answer": "Dogs must walk with their owners."
     },
     {
-        "image": "image/16.png",
+        "image": "https://raw.githubusercontent.com/phongng255/Quizz/main/Image/16.png",
         "options": [
             "Everything is cheaper this week.",
             "No extra charges next week.",
@@ -830,7 +830,7 @@
         "answer": "Everything is cheaper this week."
     },
     {
-        "image": "image/17.png",
+        "image": "https://raw.githubusercontent.com/phongng255/Quizz/main/Image/17.png",
         "options": [
             "You can send your groceries from here.",
             "You can store your groceries here.",
@@ -840,7 +840,7 @@
         "answer": "You can have your groceries sent to you."
     },
     {
-        "image": "image/18.png",
+        "image": "https://raw.githubusercontent.com/phongng255/Quizz/main/Image/18.png",
         "options": [
             "Cleaning now costs twice as much.",
             "Cleaning costs are now cheaper.",
@@ -850,7 +850,7 @@
         "answer": "Cleaning costs are now cheaper."
     },
     {
-        "image": "image/19.png",
+        "image": "https://raw.githubusercontent.com/phongng255/Quizz/main/Image/19.png",
         "options": [
             "You must pay to park here.",
             "If you use the train you can park here.",
@@ -860,7 +860,7 @@
         "answer": "If you use the train you can park here."
     },
     {
-        "image": "image/20.png",
+        "image": "https://raw.githubusercontent.com/phongng255/Quizz/main/Image/20.png",
         "options": [
             "You can buy your ticket during the journey.",
             "You pay when you get off.",
@@ -870,7 +870,7 @@
         "answer": "You have to buy a ticket before your journey."
     },
     {
-        "image": "image/21.png",
+        "image": "https://raw.githubusercontent.com/phongng255/Quizz/main/Image/21.png",
         "options": [
             "Passengers are allowed to change their seats.",
             "Passengers are allowed to eat snacks on the bus.",
