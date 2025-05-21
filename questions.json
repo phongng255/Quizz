@@ -447,7 +447,7 @@
             "doesn’t have",
             "has to"
         ],
-        "answer": "needs"
+        "answer": "has to"
     },
     {
         "question": "We can’t meet Jack today. We __________ to work overtime.",
@@ -670,6 +670,46 @@
         "answer": "False"
     },
     {
+        "question": "NGHE: 66: 1. Paper has been used for hundreds of things long time ago.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": "False"
+    },
+    {
+        "question": "NGHE: 66: 2.Before paper, people wrote on animal skins, bones, and stones.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": "True"
+    },
+    {
+        "question": "NGHE: 66: 3.Papyrus was similar to paper.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": "True"
+    },
+    {
+        "question": "NGHE: 66: 4.Chinese government official invented the first real paper in 2700 BC.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": "False"
+    },
+    {
+        "question": "NGHE: 66: 5.The first European paper mill was built in Spain in 1150.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": "True"
+    },
+    {
         "image": "https://raw.githubusercontent.com/phongng255/Quizz/main/Image/1.png",
         "options": [
             "Always keep this door open.",
@@ -878,5 +918,115 @@
             "Passengers have to follow the bus rules."
         ],
         "answer": "Passengers have to follow the bus rules."
+    },
+    {
+        "image": "https://raw.githubusercontent.com/phongng255/Quizz/main/Image/Read12.png",
+        "question": "READ 12: 1. The main idea of this passage is that...",
+        "options": [
+            "Harvard is one of the world's most prestigious universities",
+            "what is today a great university started out small",
+            "John Harvard was key to the development of a great university",
+            "Harvard University developed under the auspices of the General Court of Massachusetts"
+        ],
+        "answer": "what is today a great university started out small"
+    },
+    {
+        "image": "https://raw.githubusercontent.com/phongng255/Quizz/main/Image/Read12.png",
+        "question": "READ 12 : 2. The passage indicates that Harvard is...",
+        "options": [
+            "one of the oldest universities in the world",
+            "the oldest university in the world",
+            "one of the oldest universities in America",
+            "the oldest university in America"
+        ],
+        "answer": "the oldest university in America"
+    },
+    {
+        "image": "https://raw.githubusercontent.com/phongng255/Quizz/main/Image/Read12.png",
+        "question": "READ 12: 3. It can be inferred from the passage that the Puritans who traveled to the Massachusetts colony were...",
+        "options": [
+            "rather well-educated",
+            "rather rich",
+            "rather supportive of the English government",
+            "rather undemocratic"
+        ],
+        "answer": "rather well-educated"
+    },
+    {
+        "image": "https://raw.githubusercontent.com/phongng255/Quizz/main/Image/Read12.png",
+        "question": "READ 12: 4. Which of the following is NOT mentioned about John Harvard?",
+        "options": [
+            "What he died of",
+            "Where he came from",
+            "Where he was buried",
+            "How much he bequeathed to Harvard"
+        ],
+        "answer": "Where he was buried"
+    },
+    {
+        "image": "https://raw.githubusercontent.com/phongng255/Quizz/main/Image/Read12.png",
+        "question": "READ 12: 5. The passage implies that...",
+        "options": [
+            "Henry Dunster was an ineffective president",
+            "someone else really served as president of Harvard before Henry Dunster",
+            "Henry Dunster spent much of his time as president managing the Harvard faculty",
+            "the position of president of Harvard was not merely an administrative position in the early years"
+        ],
+        "answer": "the position of president of Harvard was not merely an administrative position in the early years"
+    },
+    {
+        "image": "https://raw.githubusercontent.com/phongng255/Quizz/main/Image/Read14.png",
+        "question": "READ 14: 1. Which form other than oral speech would be most commonly used among blind people?",
+        "options": [
+            "Picture signs",
+            "Braille",
+            "Body language",
+            "Signal flags"
+        ],
+        "answer": "Braille"
+    },
+    {
+        "image": "https://raw.githubusercontent.com/phongng255/Quizz/main/Image/Read14.png",
+        "question": "READ 14: 2. How many different forms of communication are mentioned here?",
+        "options": [
+            "5",
+            "7",
+            "9",
+            "11"
+        ],
+        "answer": "9"
+    },
+    {
+        "image": "https://raw.githubusercontent.com/phongng255/Quizz/main/Image/Read14.png",
+        "question": "READ 14: 3. People need to communicate in order to...",
+        "options": [
+            "create language barriers",
+            "keep from reading with their fingertips",
+            "be picturesque and exact",
+            "express thoughts and feelings"
+        ],
+        "answer": "express thoughts and feelings"
+    },
+    {
+        "image": "https://raw.githubusercontent.com/phongng255/Quizz/main/Image/Read14.png",
+        "question": "READ 14: 4. What is the best title for the passage?",
+        "options": [
+            "The Important of Sign Language",
+            "The Many Forms of Communication",
+            "Ways of Expressing Feelings",
+            "Picturesque Symbols of Communication"
+        ],
+        "answer": "The Many Forms of Communication"
+    },
+    {
+        "image": "https://raw.githubusercontent.com/phongng255/Quizz/main/Image/Read14.png",
+        "question": "READ 14: 5. Who would be MOST likely to use Morse code?",
+        "options": [
+            "A scientist",
+            "An airline pilot",
+            "A spy",
+            "A telegrapher"
+        ],
+        "answer": "A telegrapher"
     }
 ]

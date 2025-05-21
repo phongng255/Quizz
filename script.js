@@ -39,11 +39,14 @@ function displayQuestion() {
 
         const shuffledOptions = shuffleArrayOption(question.options); // Shuffle Option
 
-        let questionContent = '';
-        if (question.question) {
-            questionContent = `<h2>Question ${currentQuestionIndex + 1}: ${question.question}</h2>`;
-        } else {
-            questionContent = `<h2>Question ${currentQuestionIndex + 1}:</h2><img src="${question.image}" alt="Question Image">`;
+        let questionContent = `<h2>Question ${currentQuestionIndex + 1}:</h2>`;
+
+        if (question.question && question.image) {
+            questionContent += `<p>${question.question}</p><img src="${question.image}" alt="Question Image">`;
+        } else if (question.question) {
+            questionContent += `<p>${question.question}</p>`;
+        } else if (question.image) {
+            questionContent += `<img src="${question.image}" alt="Question Image">`;
         }
 
         questionContainer.innerHTML = `
