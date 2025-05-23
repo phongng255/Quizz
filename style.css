@@ -32,3 +32,52 @@ button {
 button:hover {
     background-color: #2980b9; /* Màu khi hover */
 }
+/* Modal nền mờ toàn màn hình */
+.modal {
+  display: none;
+  position: fixed;
+  z-index: 9999;
+  inset: 0; /* shorthand cho top, right, bottom, left: 0 */
+  background-color: rgba(0, 0, 0, 0.85);
+  padding: 0;
+  overflow: auto;
+}
+
+/* Ảnh được phóng to */
+.modal-content {
+  display: block;
+  margin: auto;
+  max-width: 90%;
+  max-height: 85vh;
+  border-radius: 12px;
+  box-shadow: 0 0 15px rgba(255, 255, 255, 0.3);
+  transition: transform 0.3s ease;
+}
+
+/* Nút đóng modal */
+.close {
+  position: absolute;
+  top: 16px;
+  right: 24px;
+  color: white;
+  font-size: 36px;
+  font-weight: bold;
+  cursor: pointer;
+  z-index: 10000;
+  user-select: none;
+}
+
+/* Responsive cho thiết bị nhỏ hơn 600px */
+@media (max-width: 600px) {
+  .modal-content {
+    max-width: 95%;
+    max-height: 75vh;
+    margin-top: 60px;
+  }
+
+  .close {
+    top: 10px;
+    right: 16px;
+    font-size: 30px;
+  }
+}

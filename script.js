@@ -42,11 +42,15 @@ function displayQuestion() {
         let questionContent = `<h2>Question ${currentQuestionIndex + 1}:</h2>`;
 
         if (question.question && question.image) {
-            questionContent += `<p>${question.question}</p><img src="${question.image}" alt="Question Image">`;
+            questionContent += `<div class="question-block">
+                <h3 class="question-text">${question.question}</h3>
+                <img src="${question.image}" alt="Question Image" class="question-image" onclick="showImageModal('${question.image}')">
+              </div>
+            `;
         } else if (question.question) {
-            questionContent += `<p>${question.question}</p>`;
+            questionContent += `<h3>${question.question}</h3>`;
         } else if (question.image) {
-            questionContent += `<img src="${question.image}" alt="Question Image">`;
+            questionContent += `<img src="${question.image}" alt="Question Image" class="question-image" onclick="showImageModal('${question.image}')">`;
         }
 
         questionContainer.innerHTML = `
@@ -65,7 +69,17 @@ function displayQuestion() {
     }
 }
 
- 
+function showImageModal(src) {
+    const modal = document.getElementById("imageModal");
+    const modalImg = document.getElementById("modalImg");
+    modal.style.display = "block";
+    modalImg.src = src;
+}
+
+function closeImageModal() {
+    document.getElementById("imageModal").style.display = "none";
+}
+
 function updateResult() {
     const totalQuestionsElement = document.getElementById('total-questions');
     const correctAnswersElement = document.getElementById('correct-answers');
