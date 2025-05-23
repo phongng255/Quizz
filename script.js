@@ -20,17 +20,37 @@ function shuffleArrayOption(array) {
     return shuffled;
 }
 
-// Load questions and shuffle them
-fetch('questions.json')
-    .then(response => response.json())
-    .then(data => {
-        questions = data;
-        shuffleArray(questions); // Shuffle questions
-        displayQuestion();
-        renderQuestionList();
-        updateResult();
-    })
-    .catch(error => console.error('Error loading questions:', error));
+// // Load questions and shuffle them
+// fetch('questions.json')
+//     .then(response => response.json())
+//     .then(data => {
+//         questions = data;
+//         shuffleArray(questions); // Shuffle questions
+//         displayQuestion();
+//         renderQuestionList();
+//         updateResult();
+//     })
+//     .catch(error => console.error('Error loading questions:', error));
+
+function startQuiz(shuffle) {
+    document.getElementById('modePopup').style.display = 'none';
+
+    fetch('questions.json')
+        .then(response => response.json())
+        .then(data => {
+            questions = data;
+            if (shuffle) shuffleArray(questions); // Nếu người dùng chọn ngẫu nhiên
+            displayQuestion();
+            renderQuestionList();
+            updateResult();
+        })
+        .catch(error => console.error('Error loading questions:', error));
+}
+
+// Tự động hiển thị popup khi trang load
+window.onload = function () {
+    document.getElementById('modePopup').style.display = 'flex'; // giữ nguyên ID là đủ
+};
  
 function displayQuestion() {
     if (currentQuestionIndex < questions.length) {
