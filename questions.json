@@ -500,6 +500,506 @@
         "answer": "had better"
     },
     {
+        "question": "My brother came __________ the flu last week and hasn’t recovered yet.",
+        "options": [
+            "across",
+            "apart",
+            "up with",
+            "down with"
+        ],
+        "answer": "down with"
+    },
+    {
+        "question": "Why don’t you ask Felix? He always comes __________ great ideas.",
+        "options": [
+            "off",
+            "up with",
+            "down with",
+            "apart"
+        ],
+        "answer": "up with"
+    },
+    {
+        "question": "They haven’t cleaned their attic __________.",
+        "options": [
+            "for ages",
+            "in the future",
+            "in common",
+            "out of the ordinary"
+        ],
+        "answer": "for ages"
+    },
+    {
+        "question": "I really had no intention __________ insulting your father.",
+        "options": [
+            "of",
+            "for",
+            "on",
+            "at"
+        ],
+        "answer": "of"
+    },
+    {
+        "question": "They aren’t interested __________ buying Steve’s country house.",
+        "options": [
+            "to",
+            "on",
+            "in",
+            "for"
+        ],
+        "answer": "in"
+    },
+    {
+        "question": "We must __________ into consideration everything he said.",
+        "options": [
+            "regard",
+            "give",
+            "think",
+            "take"
+        ],
+        "answer": "take"
+    },
+    {
+        "question": "We’re looking __________ seeing our grandparents.",
+        "options": [
+            "after",
+            "out",
+            "over",
+            "forward to"
+        ],
+        "answer": "forward to"
+    },
+    {
+        "question": "Brad __________ his best to please his guests yesterday evening.",
+        "options": [
+            "took",
+            "did",
+            "brought",
+            "made"
+        ],
+        "answer": "did"
+    },
+    {
+        "question": "Eating more fruit and vegetables will do you __________.",
+        "options": [
+            "badly",
+            "well",
+            "good",
+            "best"
+        ],
+        "answer": "good"
+    },
+    {
+        "question": "At this time tomorrow, Gerry __________ his driving test.",
+        "options": [
+            "shall take",
+            "going to take",
+            "shall have taken",
+            "will be taking"
+        ],
+        "answer": "will be taking"
+    },
+    {
+        "question": "Henry __________ a shower as soon as he finishes cleaning his room.",
+        "options": [
+            "will have had",
+            "will have",
+            "have",
+            "is having"
+        ],
+        "answer": "will have"
+    },
+    {
+        "question": "Will you __________ painting the house by tomorrow?",
+        "options": [
+            "finished",
+            "going to fish",
+            "have finished",
+            "finishing"
+        ],
+        "answer": "have finished"
+    },
+    {
+        "question": "Those cars are going really fast. There __________ an accident.",
+        "options": [
+            "is",
+            "will have been",
+            "is going to be",
+            "going to be"
+        ],
+        "answer": "is going to be"
+    },
+    {
+        "question": "They could take better pictures if they __________ a digital camera.",
+        "options": [
+            "would have",
+            "will have",
+            "had",
+            "are going to have"
+        ],
+        "answer": "had"
+    },
+    {
+        "question": "If I __________ by the sea, I would go fishing every day.",
+        "options": [
+            "lived",
+            "would live",
+            "live",
+            "will be living"
+        ],
+        "answer": "lived"
+    },
+    {
+        "question": "Could I have __________ more apple juice, please?",
+        "options": [
+            "no",
+            "some",
+            "any",
+            "many"
+        ],
+        "answer": "some"
+    },
+    {
+        "question": "I can’t drink this tea. There’s too __________ sugar in it.",
+        "options": [
+            "much",
+            "plenty",
+            "many",
+            "lot of"
+        ],
+        "answer": "much"
+    },
+    {
+        "question": "How __________ teachers were there at the seminar yesterday?",
+        "options": [
+            "some",
+            "many",
+            "any",
+            "much"
+        ],
+        "answer": "many"
+    },
+    {
+        "question": "Don’t leave. There are __________ more things I want to tell you.",
+        "options": [
+            "few",
+            "any",
+            "little",
+            "a few"
+        ],
+        "answer": "a few"
+    },
+    {
+        "question": "I’m afraid that the new sales representative doesn’t __________ the manager.",
+        "options": [
+            "get by",
+            "get through",
+            "get across",
+            "get on well with"
+        ],
+        "answer": "get on well with"
+    },
+    {
+        "question": "He finished my portrait yesterday, but he’s putting __________ at the moment.",
+        "options": [
+            "it mildly",
+            "the final touches",
+            "ideas into my head",
+            "an end to"
+        ],
+        "answer": "the final touches"
+    },
+    {
+        "question": "Do you think you could put __________ with the head teacher?",
+        "options": [
+            "an end to",
+            "it mildly",
+            "the final touches",
+            "in a good word for me"
+        ],
+        "answer": "in a good word for me"
+    },
+    {
+        "question": "I finally __________ trying to make him change his mind.",
+        "options": [
+            "gave up",
+            "gave out",
+            "gave back",
+            "gave off"
+        ],
+        "answer": "gave up"
+    },
+    {
+        "question": "I finally __________ trying to make him change his mind.",
+        "options": [
+            "give off",
+            "give out",
+            "give up",
+            "give in to"
+        ],
+        "answer": "give out"
+    },
+    {
+        "question": "They __________ the meeting because the chairman had to leave.",
+        "options": [
+            "showed off",
+            "paid off",
+            "got off",
+            "put off"
+        ],
+        "answer": "put off"
+    },
+    {
+        "question": "Andy loves __________ his brand-new sports car.",
+        "options": [
+            "giving off",
+            "putting off",
+            "showing off",
+            "cooling off"
+        ],
+        "answer": "showing off"
+    },
+    {
+        "question": "I broke my leg as I was __________ the bus yesterday morning.",
+        "options": [
+            "cooling off",
+            "giving off",
+            "paying off",
+            "getting off"
+        ],
+        "answer": "getting off"
+    },
+    {
+        "question": "According __________ Ned, that’s the best Chinese restaurant in the city.",
+        "options": [
+            "of",
+            "in",
+            "at",
+            "to"
+        ],
+        "answer": "to"
+    },
+    {
+        "question": "Unfortunately, he didn’t succeed __________ getting the job after all.",
+        "options": [
+            "in",
+            "on",
+            "for",
+            "at"
+        ],
+        "answer": "in"
+    },
+    {
+        "question": "Matt worked so hard that he finally made __________.",
+        "options": [
+            "haste",
+            "it to the top",
+            "the most of",
+            "difficult"
+        ],
+        "answer": "it to the top"
+    },
+    {
+        "question": "Andrew managed ____________ a promotion.",
+        "options": [
+            "in getting",
+            "to get",
+            "getting",
+            "get"
+        ],
+        "answer": "to get"
+    },
+    {
+        "question": "I’d rather ____________ with my cousin for the weekend.",
+        "options": [
+            "stay",
+            "to stay",
+            "staying",
+            "to staying"
+        ],
+        "answer": "stay"
+    },
+    {
+        "question": "They suggested ____________ the children to the new aquarium.",
+        "options": [
+            "to take",
+            "in taking",
+            "taking",
+            "to taking"
+        ],
+        "answer": "taking"
+    },
+    {
+        "question": "Don't forget ____________ off the computer when you finish.",
+        "options": [
+            "turning",
+            "to turning",
+            "turn",
+            "to turn"
+        ],
+        "answer": "to turn"
+    },
+    {
+        "question": "I'm sorry but I don't really feel like ____________ them tonight.",
+        "options": [
+            "seeing",
+            "to see",
+            "see",
+            "to seeing"
+        ],
+        "answer": "seeing"
+    },
+    {
+        "question": "Charles ____________ his car washed for two months.",
+        "options": [
+            "hadn’t been",
+            "hasn’t had",
+            "hasn’t",
+            "hadn’t been having"
+        ],
+        "answer": "hasn’t had"
+    },
+    {
+        "question": "Could I ____________ by fax, please?",
+        "options": [
+            "have been sent",
+            "have sent it",
+            "had it sent",
+            "have it sent"
+        ],
+        "answer": "have it sent"
+    },
+    {
+        "question": "You ____________ checked the report twice.",
+        "options": [
+            "should have been",
+            "could",
+            "should have",
+            "could have been"
+        ],
+        "answer": "should have"
+    },
+    {
+        "question": "They ____________ come back from the shopping centre by now.",
+        "options": [
+            "must have",
+            "must have to",
+            "might be",
+            "may have been"
+        ],
+        "answer": "must have"
+    },
+    {
+        "question": "I’m not sure, but I think he ____________ used your coffee mug.",
+        "options": [
+            "can have been",
+            "might have to",
+            "can be",
+            "may have"
+        ],
+        "answer": "may have"
+    },
+    {
+        "question": "I was cooking and talking on the phone ____________.",
+        "options": [
+            "at once",
+            "at random",
+            "at a glance",
+            "at the same timey"
+        ],
+        "answer": "at the same timey"
+    },
+    {
+        "question": "They’re having a lesson ____________.",
+        "options": [
+            "at random",
+            "at a glance",
+            "at the moment",
+            "at once"
+        ],
+        "answer": "at the moment"
+    },
+    {
+        "question": "____________ of six, he wanted to become an astronaut.",
+        "options": [
+            "At a glance",
+            "At the age",
+            "At the moment",
+            "at once"
+        ],
+        "answer": "At the age"
+    },
+    {
+        "question": "The headmaster told them to go to their classroom ____________.",
+        "options": [
+            "at once",
+            "at the age",
+            "at his own speed",
+            "at a glance"
+        ],
+        "answer": "at once"
+    },
+    {
+        "question": "I'm really sorry, but I didn't have ____________ that your mother was so seriously ill.",
+        "options": [
+            "the chance",
+            "an argument",
+            "a lot in common",
+            "the slightest idea"
+        ],
+        "answer": "the slightest idea"
+    },
+    {
+        "question": "The chief editor had ____________ at the whole magazine before it was printed.",
+        "options": [
+            "an effect",
+            "a look",
+            "a lot in common",
+            "an effect on"
+        ],
+        "answer": "a look"
+    },
+    {
+        "question": "I'm sure that he had ____________ leaving you here all by yourself.",
+        "options": [
+            "a look at",
+            "the chance",
+            "no intention of",
+            "an effect on"
+        ],
+        "answer": "no intention of"
+    },
+    {
+        "question": "Unfortunately, they had a big ____________ their supervisor yesterday morning.",
+        "options": [
+            "effect on",
+            "intention of",
+            "look at",
+            "argument with"
+        ],
+        "answer": "argument with"
+    },
+    {
+        "question": "Gregory never ____________ what his mother tells him.",
+        "options": [
+            "informs",
+            "is used to",
+            "pays attention to",
+            "makes his way to"
+        ],
+        "answer": "pays attention to"
+    },
+    {
+        "question": "Mona's teacher ____________ her from taking the exams.",
+        "options": [
+            "informed",
+            "discouraged",
+            "waited",
+            "made"
+        ],
+        "answer": "discouraged"
+    },
+    {
         "question": "Text 45: 1. Where did Doug and Diane first meet?",
         "options": [
             "at school",
@@ -1028,5 +1528,225 @@
             "A telegrapher"
         ],
         "answer": "A telegrapher"
+    },
+    {
+        "image": "https://raw.githubusercontent.com/phongng255/Quizz/main/Image/Read4.png",
+        "question": "READ 4: 1. After he (1) ____ driven it 1,500 kilometres, he sold it and built two bigger carts.",
+        "options": [
+            "is",
+            "was",
+            "had",
+            "has"
+        ],
+        "answer": "had"
+    },
+    {
+        "image": "https://raw.githubusercontent.com/phongng255/Quizz/main/Image/Read4.png",
+        "question": "READ 4: 2. Then, in 1903, he (2) ____ the Ford Motor Company.",
+        "options": [
+            "raised",
+            "started",
+            "led",
+            "appeared"
+        ],
+        "answer": "started"
+    },
+    {
+        "image": "https://raw.githubusercontent.com/phongng255/Quizz/main/Image/Read4.png",
+        "question": "READ 4: 3. By (3) ____ strong but light steel, he built cheap cars.",
+        "options": [
+            "putting",
+            "operating",
+            "using",
+            "managing"
+        ],
+        "answer": "using"
+    },
+    {
+        "image": "https://raw.githubusercontent.com/phongng255/Quizz/main/Image/Read4.png",
+        "question": "READ 4: 4. He built cheap cars for (4) ____ people to buy.",
+        "options": [
+            "usual",
+            "ordinary",
+            "general",
+            "typical"
+        ],
+        "answer": "ordinary"
+    },
+    {
+        "image": "https://raw.githubusercontent.com/phongng255/Quizz/main/Image/Read4.png",
+        "question": "READ 4: 5. He built the first Ford Model 'T', (5) ____ sold for $825.",
+        "options": [
+            "where",
+            "which",
+            "who",
+            "what"
+        ],
+        "answer": "which"
+    },
+    {
+        "image": "https://raw.githubusercontent.com/phongng255/Quizz/main/Image/Read4.png",
+        "question": "READ 4: 6. He was soon selling 100 cars (6) ____ day.",
+        "options": [
+            "a",
+            "some",
+            "the",
+            "one"
+        ],
+        "answer": "a"
+    },
+    {
+        "image": "https://raw.githubusercontent.com/phongng255/Quizz/main/Image/Read4.png",
+        "question": "READ 4: 7. By 1927, the Ford Motor Company was (7) ____ $700 million.",
+        "options": [
+            "rich",
+            "worth",
+            "expensive",
+            "dear"
+        ],
+        "answer": "worth"
+    },
+    {
+        "image": "https://raw.githubusercontent.com/phongng255/Quizz/main/Image/Read4.png",
+        "question": "READ 4: 8. Early Ford cars were simple and cheap, but (8) ____ things simple sometimes meant less choice.",
+        "options": [
+            "remaining",
+            "staying",
+            "keeping",
+            "holding"
+        ],
+        "answer": "keeping"
+    },
+    {
+        "image": "https://raw.githubusercontent.com/phongng255/Quizz/main/Image/Read4.png",
+        "question": "READ 4: 9. Simple sometimes (9) ____ less choice.",
+        "options": [
+            "meant",
+            "decided",
+            "planned",
+            "intended"
+        ],
+        "answer": "meant"
+    },
+    {
+        "image": "https://raw.githubusercontent.com/phongng255/Quizz/main/Image/Read4.png",
+        "question": "READ 4: 10. 'You (10) ____ have any colour you like,' said Henry Ford of the Model T, 'as long as it's black.'",
+        "options": [
+            "will",
+            "ought",
+            "need",
+            "can"
+        ],
+        "answer": "can"
+    },
+    {
+        "image": "https://raw.githubusercontent.com/phongng255/Quizz/main/Image/Read17.png",
+        "question": "READ 17: 1. Your answers to these two questions will help you identify your (1) ____.",
+        "options": [
+            "strong",
+            "strength",
+            "strengthen",
+            "strengthened"
+        ],
+        "answer": "strength"
+    },
+    {
+        "image": "https://raw.githubusercontent.com/phongng255/Quizz/main/Image/Read17.png",
+        "question": "READ 17: 2. An employer will consider you seriously for a (2) ____.",
+        "options": [
+            "position",
+            "location",
+            "spot",
+            "room"
+        ],
+        "answer": "position"
+    },
+    {
+        "image": "https://raw.githubusercontent.com/phongng255/Quizz/main/Image/Read17.png",
+        "question": "READ 17: 3. Clearly not everyone is equally good (3) ____ everything.",
+        "options": [
+            "upon",
+            "in",
+            "at",
+            "for"
+        ],
+        "answer": "at"
+    },
+    {
+        "image": "https://raw.githubusercontent.com/phongng255/Quizz/main/Image/Read17.png",
+        "question": "READ 17: 4. You may need to improve yourself and so (4) ____ courses in that field could turn a weakness into strength.",
+        "options": [
+            "meeting",
+            "taking",
+            "choosing",
+            "interviewing"
+        ],
+        "answer": "taking"
+    },
+    {
+        "image": "https://raw.githubusercontent.com/phongng255/Quizz/main/Image/Read17.png",
+        "question": "READ 17: 5. You will need to (5) ____ some time on your self-assessment.",
+        "options": [
+            "use",
+            "make",
+            "lose",
+            "spend"
+        ],
+        "answer": "spend"
+    },
+    {
+        "image": "https://raw.githubusercontent.com/phongng255/Quizz/main/Image/Read17.png",
+        "question": "READ 17: 6. Your honesty and the desire for self-improvement will lead to (6) ____ in getting the right job.",
+        "options": [
+            "success",
+            "successful",
+            "successfully",
+            "succeed"
+        ],
+        "answer": "success"
+    },
+    {
+        "image": "https://raw.githubusercontent.com/phongng255/Quizz/main/Image/Read17.png",
+        "question": "READ 17: 7. Ask (7) ____ if you have any special talents and if you need to consider your physical health.",
+        "options": [
+            "you",
+            "your",
+            "yours",
+            "yourself"
+        ],
+        "answer": "yourself"
+    },
+    {
+        "image": "https://raw.githubusercontent.com/phongng255/Quizz/main/Image/Read17.png",
+        "question": "READ 17: 8. Ask for other people's (8) ____ if necessary.",
+        "options": [
+            "interests",
+            "fields",
+            "opinions",
+            "attendances"
+        ],
+        "answer": "opinions"
+    },
+    {
+        "image": "https://raw.githubusercontent.com/phongng255/Quizz/main/Image/Read17.png",
+        "question": "READ 17: 9. If you are considering a career that (9) ____ a special talent...",
+        "options": [
+            "requires",
+            "asks",
+            "tells",
+            "urges"
+        ],
+        "answer": "requires"
+    },
+    {
+        "image": "https://raw.githubusercontent.com/phongng255/Quizz/main/Image/Read17.png",
+        "question": "READ 17: 10. ...discuss your aptitudes with (10) ____ expert in that area.",
+        "options": [
+            "a",
+            "an",
+            "the",
+            "no article"
+        ],
+        "answer": "a"
     }
 ]
